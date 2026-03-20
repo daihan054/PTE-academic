@@ -2,7 +2,9 @@
 
 **Source:** Apeuni-corrected practice essays (TV, smartphone, university).
 
-**Format:** Rule → all example pairs under **Example** → one **What I did wrong in the paragraph** that explains every example in that section.
+**Format:** Rule, then all example pairs under **Example**, then one **What I did wrong in the paragraph** that explains every example in that section.
+
+*Note: Where the source had wrong and corrected sentences on one line, they are split into separate rows below.*
 
 ---
 
@@ -113,7 +115,7 @@ In PTE and academic writing, every word must be spelled correctly. Even if your 
 
 ### What I did wrong in the paragraph
 
-You had three spelling errors: "beilieve" (correct: believe), "peacefullness" (correct: peacefulness — one l, not two), and "peopel" (correct: people). These are all very common academic words. Memorize them: **b-e-l-i-e-v-e**, **p-e-a-c-e-f-u-l-n-e-s-s**, **p-e-o-p-l-e**.
+You had three spelling errors: "beilieve" (correct: believe), "peacefullness" (correct: peacefulness - one l, not two), and "peopel" (correct: people). These are all very common academic words. Memorize them: **b-e-l-i-e-v-e**, **p-e-a-c-e-f-u-l-n-e-s-s**, **p-e-o-p-l-e**.
 
 ---
 
@@ -295,7 +297,7 @@ When you describe a personal past experience in an essay, all verbs in that stor
 
 ### What I did wrong in the paragraph
 
-You started correctly with **"I watched"** (past tense) but then switched to **"I get"** (present tense). The correct past form is **"I got"**. You also wrote **"I did poor result"** — the natural collocation is **"I had poor results"**. Additionally, **"late night"** should be **"late at night"** — the fixed phrase includes **"at"**.
+You started correctly with "I watched" (past tense) but then switched to "I get" (present tense). The correct past form is "I got". You also wrote "I did poor result" - the natural collocation is "I had poor results". Additionally, "late night" should be "late at night" - the fixed phrase includes "at".
 
 ---
 
@@ -324,7 +326,7 @@ Commas must be placed only where they create genuine pauses or separate grammati
 
 ### What I did wrong in the paragraph
 
-In the if-then sentence, you needed clearer punctuation or structure before the result clause. You missed commas after introductory **"Eventually"** and **"As a result"**. In the smartphone essay you wrote **"classes, exams"** with only a comma; parallel objects after **"attend"** need **"and"**: **"classes and exams"**.
+In the if-then sentence, you needed clearer punctuation or structure before the result clause. You missed commas after introductory "Eventually" and "As a result". In the smartphone essay you wrote "classes, exams" with only a comma; parallel objects after "attend" need "and": "classes and exams".
 
 ---
 
@@ -355,11 +357,11 @@ Your errors were not random. They followed repeating patterns. If you check thes
 
 ### Example
 
-1. **Subject-verb agreement** — does every verb match its subject? (It provides, students feel, television hampers)
-2. **Adjective form** — have you used *relaxing* (not *relax*), *entertaining* (not *entertain*) before nouns?
-3. **Spelling** — check: believe, peacefulness, people, university, educational, addiction.
-4. **Singular vs plural** — students (not student), results (not result), concepts (not concept), skills.
-5. **Tense** — if your example is a past story, are **ALL** verbs past tense? (I watched, I got, I had)
+1. Subject-verb agreement - does every verb match its subject? (It provides, students feel, television hampers)
+2. Adjective form - have you used relaxing (not relax), entertaining (not entertain) before nouns?
+3. Spelling - check: believe, peacefulness, people, university, educational, addiction.
+4. Singular vs plural - students (not student), results (not result), concepts (not concept), skills.
+5. Tense - if your example is a past story, are ALL verbs past tense? (I watched, I got, I had)
 
 ### What I did wrong in the paragraph
 
