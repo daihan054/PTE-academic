@@ -137,6 +137,7 @@ When the user pastes a new Apeuni-corrected essay (with bracket format), follow 
 - Text before bracket = Apeuni's correction (correct word)
 - Text inside [bracket] = what the user wrote (wrong word)
 - Example: "provides [provide]" means user wrote "provide", correct is "provides"
+- If the user uses one bracket only: `(provides[provide])` → correct = **provides**, wrong = **provide**
 
 ### Step 1 — Parse all errors
 Extract every [bracket] from the pasted essay. For each one, identify:
@@ -145,26 +146,41 @@ Extract every [bracket] from the pasted essay. For each one, identify:
 - The full sentence it appeared in
 
 ### Step 2 — Categorize against existing rules
-Check PTE_essay_mistake_note.docx existing sections (currently 15 rules):
-1. Subject-Verb Agreement (singular)
-2. Subject-Verb Agreement (plural)
-3. Adjective Form vs Base Verb Form
-4. Spelling Accuracy
-5. Article Usage (missing "the")
-6. Article Usage (unnecessary "the")
-7. Capitalization Rules
-8. Preposition for Media Channels
-9. Fixed Phrase and Word Spacing
-10. Singular vs Plural Nouns
-11. Demonstratives: this / that / these / those
-12. Tense Consistency in Personal Examples
-13. Punctuation Control
-14. Finite Verb vs Participial Phrase
-15. Quick 5-Point Checklist
+Check `PTE_essay_mistake_note.docx` sections (currently **rules 1–20**, including Quick Checklist as rule 15). Core list:
+1. Subject-Verb Agreement (singular)  
+2. Subject-Verb Agreement (plural)  
+3. Adjective Form vs Base Verb Form  
+4. Spelling Accuracy  
+5. Article Usage (missing "the")  
+6. Article Usage (unnecessary "the")  
+7. Capitalization Rules  
+8. Preposition for Media Channels  
+9. Fixed Phrase and Word Spacing  
+10. Singular vs Plural Nouns  
+11. Demonstratives: this / that / these / those  
+12. Tense Consistency in Personal Examples  
+13. Punctuation Control  
+14. Finite Verb vs Participial Phrase  
+15. Quick 5-Point Checklist  
+16–20. (Missing "a" before adj+noun; their/there; apostrophe possession; active vs passive with *will*; double subject / extra *it*)
 
-### Step 3 — Update the docx
-- If mistake matches an EXISTING rule → add only a new "What you wrote / What it should be" example under that section. Do NOT change the rule text or "What I did wrong" paragraph.
-- If mistake is a NEW rule not covered above → create a new numbered section (16, 17...) with the same format: Rule + Example + What I did wrong in the paragraph.
+### Step 3 — Required structure inside every rule section (docx)
+Each numbered rule must follow this **exact order** (no exceptions):
 
-### Step 4 — Never rebuild from scratch
-Only add to the existing docx. Never delete existing sections or examples.
+1. **Title** (e.g. `3. Adjective Form vs Base Verb Form`)  
+2. **Rule:** (explanation — can stay as-is when adding examples)  
+3. **Example:** (label only)  
+4. **All pairs together:** for every example in that rule, repeat in order:  
+   - `What you wrote:` + full wrong sentence  
+   - `What it should be:` + full correct sentence  
+   (New mistakes from a new essay are **appended here** with the same pair format — do **not** put new pairs after "What I did wrong" or after the next rule’s title.)  
+5. **What I did wrong in the paragraph:** one section that explains **every** example listed above (original + any new essay). Either merge into one coherent paragraph or use short labeled bullets (e.g. *TV essay:* … *Smartphone essay:* …) so each new mistake is explicitly explained.
+
+**Wrong layout (do not do this):** Rule → Example pair 1 → What I did wrong → extra pair 2 → next rule title.  
+**Right layout:** Rule → Example: → **all** pairs → **then** What I did wrong (covers **all** pairs).
+
+### Step 4 — How to apply updates
+- **Preferred:** Edit `rebuild_mistake_note.ps1` (source generator): add `,@('wrong sentence','correct sentence')` rows under the right rule, and **expand** that rule’s `wrongPara` text so it mentions every pair (including the new essay). Then run the script to regenerate `PTE_essay_mistake_note.docx`.  
+- **PowerShell pitfall:** In `@( … )`, nested `@('a','b')` **flattens** to two strings. Each row must be **` ,@('wrong','correct')`** (leading comma) so each pair stays one row.  
+- **If editing docx manually:** Same visual order as Step 3; never orphan a new pair outside the Example block.  
+- **Do not delete** existing rules or existing example pairs when updating; only add pairs and extend "What I did wrong" unless the user asks to remove content.
