@@ -2,7 +2,7 @@
 
 **Source:** Apeuni-corrected practice essays (TV, smartphone, university).
 
-**Format:** Rule → all example pairs under **Example** → one **What I did wrong in the paragraph** that explains every example in that section.
+**Format:** Rule → all example pairs under **Example**, each followed by a short explanation.
 
 ---
 
@@ -19,19 +19,21 @@ When the subject of a sentence is singular (It, He, She, Television, The show, E
 | **What you wrote:** | It provide people with relax time after long exhausting working hours. |
 | **What it should be:** | It provides people with relaxing time after long exhausting working hours. |
 
+"It" is singular, so the verb must be "provides" with an -s.
+
 | | |
 |---|---|
 | **What you wrote:** | Television provide people with relax, entertaining and educational time. |
 | **What it should be:** | Television provides people with relaxing, entertaining and educational time. |
+
+"Television" is a singular noun, so it also takes "provides" with an -s.
 
 | | |
 |---|---|
 | **What you wrote:** | Excessive screen time on smartphones increase anxiety, stress, and eventually degrade their quality of sleep. |
 | **What it should be:** | Excessive screen time on smartphones increases anxiety, stress, and eventually degrades their quality of sleep. |
 
-### What I did wrong in the paragraph
-
-In the TV essay you wrote "It provide" and "Television provide", but both subjects are singular, so the verb must be "provides". This error appeared in Paragraph 1 and the Conclusion. In the smartphone essay the real subject is the whole noun phrase "Excessive screen time on smartphones" (singular idea), so the verbs must be "increases" and "degrades", not the base forms "increase" and "degrade". **Rule:** one singular subject = add **-s** to the present tense verb.
+The real subject is the whole phrase "Excessive screen time on smartphones" — a singular idea. Don't be misled by "smartphones" near the verb; the head noun is "time", which is singular, so both verbs need -s: "increases" and "degrades".
 
 ---
 
@@ -48,19 +50,21 @@ When the subject is plural (Students, People, Experts, Fast plots and music, Sma
 | **What you wrote:** | Students who binged watch television shows, they sleep less, feels tired and perform badly. |
 | **What it should be:** | Students who watch too many television shows sleep less, feel tired and perform badly. |
 
+"Students" is plural, so the verb must be "feel" not "feels". There is also a double subject error here — you wrote "they" after "Students", but one subject is enough for the whole clause.
+
 | | |
 |---|---|
 | **What you wrote:** | television is a waste of time and hamper the daily routine of students. |
 | **What it should be:** | television is a waste of time and hampers the daily routine of students. |
+
+"Television" is singular. Both verbs in the clause must agree with it, so the second verb is "hampers" not "hamper".
 
 | | |
 |---|---|
 | **What you wrote:** | Smartphone is one of the new inventions in our technological world. |
 | **What it should be:** | Smartphones are one of the new inventions in our technological world. |
 
-### What I did wrong in the paragraph
-
-In the TV essay you wrote "feels" after the plural subject "Students" and "hamper" after the singular subject "television". Plural subject needs the base verb "feel"; singular "television" needs "hampers". In the smartphone essay "Smartphone is" is wrong because you are talking about smartphones in general as a class of inventions, so use plural "Smartphones are" with the plural verb "are". Always identify the real subject and its number before you choose the verb.
+You are talking about smartphones as a general category, not one specific device. The plural "Smartphones are" is correct here.
 
 ---
 
@@ -77,14 +81,14 @@ When a word describes a noun (like "time", "content", or "experience"), you need
 | **What you wrote:** | It provides people with relax time after long exhausting working hours. |
 | **What it should be:** | It provides people with relaxing time after long exhausting working hours. |
 
+"Relax" is a verb; you need the adjective form "relaxing" to describe the noun "time".
+
 | | |
 |---|---|
 | **What you wrote:** | Television provides people with relax, entertaining and educational time. |
 | **What it should be:** | Television provides people with relaxing, entertaining and educational time. |
 
-### What I did wrong in the paragraph
-
-You used the base verb "relax" to describe "time", but in English the adjective "relaxing" is needed here. This mistake appeared in both Paragraph 1 and the Conclusion. The pattern is: verb + people + with + adjective + noun. So "provides people with relaxing time" is always correct, never "provides people with relax time".
+The list has three adjectives: entertaining, educational, and relaxing. "Relax" breaks the pattern — it must be "relaxing" to match the other adjectives in the list.
 
 ---
 
@@ -101,26 +105,28 @@ In PTE and academic writing, every word must be spelled correctly. Even if your 
 | **What you wrote:** | To a large extent, I beilieve television is beneficial. |
 | **What it should be:** | To a large extent, I believe television is beneficial. |
 
+The letters "ei" are swapped. Memorize: **b-e-l-i-e-v-e**.
+
 | | |
 |---|---|
 | **What you wrote:** | television provides people with mental calmness and peacefullness. |
 | **What it should be:** | television provides people with mental calmness and peacefulness. |
+
+There is only one "l" in "peacefulness". The suffix is **-ness**, not **-lness**. Memorize: **p-e-a-c-e-f-u-l-n-e-s-s**.
 
 | | |
 |---|---|
 | **What you wrote:** | but peopel have to be aware of addiction. |
 | **What it should be:** | but people have to be aware of addiction. |
 
+The letters "el" are swapped at the end. Memorize: **p-e-o-p-l-e**.
+
 | | |
 |---|---|
 | **What you wrote:** | plays like Shakespear's "Romeo & Juliet" |
 | **What it should be:** | plays like Shakespeare's "Romeo & Juliet" |
 
-### What I did wrong in the paragraph
-
-You had three spelling errors: "beilieve" (correct: believe), "peacefullness" (correct: peacefulness — one l, not two), and "peopel" (correct: people). These are all very common academic words. Memorize them: **b-e-l-i-e-v-e**, **p-e-a-c-e-f-u-l-n-e-s-s**, **p-e-o-p-l-e**.
-
-You wrote **"Shakespear"** but the correct spelling of the playwright's name is **"Shakespeare"** — note the silent final "e". This is one of the most commonly misspelled proper nouns in academic writing. Since it is a proper noun, there is no grammar rule to fall back on; you simply have to memorize it: **S-h-a-k-e-s-p-e-a-r-e**.
+There is a silent final "e" that is easy to miss. This is a proper noun so there is no rule to rely on — memorize it: **S-h-a-k-e-s-p-e-a-r-e**.
 
 ---
 
@@ -128,7 +134,7 @@ You wrote **"Shakespear"** but the correct spelling of the playwright's name is 
 
 ### Rule
 
-Use **"the"** before an adjective when it refers to a whole group of people with that quality. This structure is called **"the + adjective"** and it acts as a noun phrase. Common examples in essays: the elderly, the lonely, the poor, the unemployed. Without **"the"**, the phrase is grammatically incomplete when you mean a category of people.
+Use **"the"** before an adjective when it refers to a whole group of people with that quality. This structure is called **"the + adjective"** and it acts as a noun phrase. Common examples in essays: the elderly, the lonely, the poor, the unemployed. Without **"the"**, the phrase is grammatically incomplete when you mean a category of people. Also use **"the"** when referring to a specific thing that is identifiable from context.
 
 ### Example
 
@@ -137,21 +143,21 @@ Use **"the"** before an adjective when it refers to a whole group of people with
 | **What you wrote:** | People can learn from educational content on television, and it acts as a companion for lonely people. |
 | **What it should be:** | People can learn from educational content on television, and it acts as a companion for the lonely. |
 
+"The lonely" means lonely people as a category. Using "the + adjective" is the more natural and idiomatic academic form here.
+
 | | |
 |---|---|
 | **What you wrote:** | introduces students to culture and emotion of those times. |
 | **What it should be:** | introduces students to the culture and emotions of those times. |
+
+You are referring to the specific culture of a particular historical period, not culture in general. When the noun is identifiable from context, "the" is mandatory.
 
 | | |
 |---|---|
 | **What you wrote:** | they have to pause and see a dictionary to understand meaning of a word. |
 | **What it should be:** | they have to pause and see a dictionary to understand the meaning of a word. |
 
-### What I did wrong in the paragraph
-
-Apeuni flagged that **"the"** was missing before "lonely". The phrase **"the lonely"** means lonely people as a category. Writing "for lonely people" is not wrong, but **"for the lonely"** is the more natural and idiomatic academic expression. In essays, use **"the + adjective"** to refer to a group: the lonely, the elderly, the sick. 
-
-You dropped "the" in two places. In the first sentence you wrote **"to culture"** but you are referring to the specific culture of a particular historical period, so "the" is mandatory: **"to the culture"**. In the second sentence you wrote **"understand meaning"** but you mean the specific meaning of a specific word that was just mentioned, so it must be **"understand the meaning"**. Rule: whenever the noun refers to something specific and identifiable from context, "the" cannot be left out.
+"The meaning" refers to the specific meaning of the specific word just mentioned. Because it is identifiable from context, "the" cannot be left out.
 
 ---
 
@@ -168,14 +174,14 @@ Do not use **"the"** before a noun when you are talking about it as a general co
 | **What you wrote:** | they can get the full benefits of the television. |
 | **What it should be:** | they can get the full benefits of television. |
 
+You mean television as a general medium, not a specific device in a room. Remove "the" before "television".
+
 | | |
 |---|---|
 | **What you wrote:** | I will discuss the advantages and disadvantages of the smartphones. |
 | **What it should be:** | I will discuss the advantages and disadvantages of smartphones. |
 
-### What I did wrong in the paragraph
-
-In the TV essay you wrote **"the full benefits of the television"**. The second **"the"** is wrong because you mean television as a general medium, not a specific device. In the smartphone essay **"the smartphones"** is wrong for the same reason: you are discussing smartphones as a general topic, so no **"the"** before the plural noun. Remove **"the"** when you mean the category in general.
+You are discussing smartphones as a general topic, not specific phones. "The smartphones" is wrong here — remove "the".
 
 ---
 
@@ -192,14 +198,14 @@ Use a capital letter only at the very beginning of a sentence or for proper noun
 | **What you wrote:** | To begin with, Television provides people with mental calmness and peacefulness. |
 | **What it should be:** | To begin with, television provides people with mental calmness and peacefulness. |
 
+"Television" is a common noun. It only gets a capital letter if it starts the sentence, not after a comma in the middle.
+
 | | |
 |---|---|
 | **What you wrote:** | During covid-19, all educational institutes were shut down. |
 | **What it should be:** | During COVID-19, all educational institutes were shut down. |
 
-### What I did wrong in the paragraph
-
-You wrote **"Television"** with a capital T in the middle of a sentence after a comma. "Television" is a common noun and must be lower-case unless it begins the sentence. You also wrote **"covid-19"** in lower-case; the standard form is **"COVID-19"** (all caps for the acronym). Proper nouns and official acronyms must follow English capitalization conventions.
+COVID-19 is an acronym and must be written in all capitals. Lower-case "covid-19" does not follow the standard convention.
 
 ---
 
@@ -216,14 +222,14 @@ In English, use **"on"** for TV channels, radio stations, streaming platforms, a
 | **What you wrote:** | Students watch educational shows in National Geographic and learn about difficult physics concepts. |
 | **What it should be:** | Students watch educational shows on National Geographic and learn about difficult physics concepts. |
 
+National Geographic is a TV channel. Channels always take "on", not "in".
+
 | | |
 |---|---|
 | **What you wrote:** | Students can attend online classes through apps in smartphone, if their schools are closed. |
 | **What it should be:** | Students can attend online classes through apps on smartphones, if their schools are closed. |
 
-### What I did wrong in the paragraph
-
-You wrote **"in National Geographic"** but channels take **"on"**. You also wrote **"in smartphone"** for apps; the natural pattern is **"on smartphones"** (on the device). Remember: on TV, on a channel, on National Geographic, on smartphones for apps and screens.
+Apps live "on" a device, not "in" it. The correct pattern is "on smartphones".
 
 ---
 
@@ -240,14 +246,14 @@ Many English phrases are fixed multi-word expressions and must always be written
 | **What you wrote:** | When students come infront of television after long classes, they feel relaxed. |
 | **What it should be:** | When students sit in front of the television after long classes, they feel relaxed. |
 
+"Infront" is not a word in English. The fixed expression is always three separate words: **in front of**.
+
 | | |
 |---|---|
 | **What you wrote:** | When people use smartphones in dinner table instead of talking to family members, they feel lonely. |
 | **What it should be:** | When people use smartphones at the dinner table instead of talking to family members, they feel lonely. |
 
-### What I did wrong in the paragraph
-
-You wrote **"infront"** as one word; the correct phrase is **"in front of"** with spaces. You also wrote **"in dinner table"**; the fixed expression is **"at the dinner table"**. Memorize these as complete units: in front of, at the dinner table, at night, on the bus.
+The fixed phrase is "at the dinner table" — not "in". Memorize these as complete units: in front of, at the dinner table, at night, on the bus.
 
 ---
 
@@ -264,46 +270,56 @@ Use plural nouns when talking about more than one thing, a repeated action, or a
 | **What you wrote:** | if student can watch educational content and limit their usage, then they can get full benefits. |
 | **What it should be:** | if students can watch educational content and limit their usage, they can get full benefits. |
 
+You are making a general statement about all students, not one student. General statements need the plural: "students".
+
 | | |
 |---|---|
 | **What you wrote:** | result, I had poor result in my exam. |
 | **What it should be:** | As a result, I had poor results in my exam. |
+
+"Poor results" refers to overall performance across multiple assessments. The plural is natural here. Also note that "As a result" is the correct fixed phrase — "result" alone cannot start the sentence.
 
 | | |
 |---|---|
 | **What you wrote:** | In emergency situation such as ambulance call or fire service call, people use smartphones. |
 | **What it should be:** | In emergency situations such as ambulance calls or fire service calls, people use smartphones. |
 
+You are listing types of emergencies and types of calls — all general categories. Every noun in the list must be plural: "situations", "calls", "calls".
+
 | | |
 |---|---|
 | **What you wrote:** | studying centuries-old plays and theatre introduces students to culture and emotion of those times. |
 | **What it should be:** | studying centuries-old plays and theatre introduces students to the culture and emotions of those times. |
+
+The sentence refers to many different emotions from an entire historical era, not just one. "Emotions" is correct.
 
 | | |
 |---|---|
 | **What you wrote:** | These exposure help students to realize... |
 | **What it should be:** | These exposures help students to realize... |
 
+The word "These" already signals plural, so the noun must also be plural: "exposures".
+
 | | |
 |---|---|
 | **What you wrote:** | the word or language of ancient plays are difficult. |
 | **What it should be:** | the words or language of ancient plays are difficult. |
+
+You are referring to many difficult words across many plays, not a single word. Use "words".
 
 | | |
 |---|---|
 | **What you wrote:** | often creates concentration problem. |
 | **What it should be:** | often creates concentration problems. |
 
+This is a recurring, general issue — not one isolated problem. "Problems" is the natural plural here.
+
 | | |
 |---|---|
 | **What you wrote:** | but the words or language of those plays are really hard to comprehend, which creates problem. |
 | **What it should be:** | but the words or language of those plays are really hard to comprehend, which creates problems. |
 
-### What I did wrong in the paragraph
-
-You wrote **"if student can watch"** but the general statement needs plural **"students"**. You wrote **"poor result"** (singular) for overall exam performance; **"poor results"** is natural. In the smartphone essay **"emergency situation"** and **"ambulance call"** / **"fire service call"** should be plural when you list types of emergencies and repeated kinds of calls. Ask: one specific thing or a general situation? If general, prefer plural.
-
-You used singular nouns in five places where plural was needed. You wrote **"emotion"** but the sentence lists feelings from an entire era, so **"emotions"** is correct. You wrote **"exposure"** after the demonstrative "These" which itself signals plural, so it must be **"exposures"**. You wrote **"word"** when referring to the language of plays in general, so **"words"** is correct. You wrote **"concentration problem"** and **"creates problem"** in two separate sentences; both refer to a recurring general issue, so **"problems"** is needed in both. Rule: when you make a general statement about repeated or multiple things, always use the plural noun.
+The conclusion is summarizing multiple difficulties described throughout the essay. "Problems" (plural) is correct.
 
 ---
 
@@ -320,9 +336,7 @@ Demonstratives must match the noun they refer to in number. Use **"this"** and *
 | **What you wrote:** | I understood that concepts easily after watching the show. |
 | **What it should be:** | I understood those concepts easily after watching the show. |
 
-### What I did wrong in the paragraph
-
-You wrote **"that concepts"** but "concepts" is plural, so the correct demonstrative is **"those"**. The rule is: singular noun = that / this, plural noun = those / these. Quick test: if you mean multiple concepts, use **"those concepts"**.
+"Concepts" is plural, so the demonstrative must also be plural: "those". Quick test — if the noun takes "are" (these concepts are), use "those" or "these", not "that".
 
 ---
 
@@ -339,9 +353,7 @@ When you describe a personal past experience in an essay, all verbs in that stor
 | **What you wrote:** | I watched television late night eventually I get little time for revision. As a result I did poor result in my exam. |
 | **What it should be:** | I watched television late at night. Eventually, I got little time for revision. As a result, I had poor results in my exam. |
 
-### What I did wrong in the paragraph
-
-You started correctly with **"I watched"** (past tense) but then switched to **"I get"** (present tense). The correct past form is **"I got"**. You also wrote **"I did poor result"** — the natural collocation is **"I had poor results"**. Additionally, **"late night"** should be **"late at night"** — the fixed phrase includes **"at"**.
+Three errors in one example. First, you started in past tense with "watched" but switched to present tense "get" — it must be "got". Second, "I did poor result" is wrong; the natural collocation is "I had poor results". Third, "late night" is missing the preposition — the fixed phrase is "late at night".
 
 ---
 
@@ -358,19 +370,21 @@ Commas must be placed only where they create genuine pauses or separate grammati
 | **What you wrote:** | if students can watch educational content and limit their usage then they can get full benefits. |
 | **What it should be:** | if students can watch educational content and limit their usage, they can get the full benefits of television. |
 
+When an "if" clause comes before the main clause, a comma must separate them. Without the comma, the sentence is hard to read.
+
 | | |
 |---|---|
 | **What you wrote:** | Eventually I got little time for revision. As a result I did poor result in my exam. |
 | **What it should be:** | Eventually, I got little time for revision. As a result, I had poor results in my exam. |
+
+Introductory adverbials like "Eventually" and "As a result" must always be followed by a comma before the main clause.
 
 | | |
 |---|---|
 | **What you wrote:** | People used smartphone apps to attend online classes, exams. |
 | **What it should be:** | People used smartphone apps to attend online classes and exams. |
 
-### What I did wrong in the paragraph
-
-In the if-then sentence, you needed clearer punctuation or structure before the result clause. You missed commas after introductory **"Eventually"** and **"As a result"**. In the smartphone essay you wrote **"classes, exams"** with only a comma; parallel objects after **"attend"** need **"and"**: **"classes and exams"**.
+Two parallel objects after "attend" must be joined with "and", not separated by only a comma. A comma alone cannot link two objects.
 
 ---
 
@@ -387,9 +401,7 @@ A participial phrase (verb + **-ing**) can be used as a modifier attached to the
 | **What you wrote:** | Students watch educational shows in National Geographic teaches them difficult physics concepts. |
 | **What it should be:** | Students watching educational shows on National Geographic teach them difficult physics concepts. |
 
-### What I did wrong in the paragraph
-
-You wrote **"Students watch ... teaches"** which has three errors in one sentence. First, **"watch"** should be **"watching"** because the subject has a participial modifier phrase. Second, the main verb **"teaches"** must be **"teach"** because the subject **"students"** is plural. Third, **"in National Geographic"** must be **"on National Geographic"** because TV channels take the preposition **"on"** (see Rule 8).
+Three errors in one sentence: (1) "watch" must be "watching" to make it a participial modifier; (2) the main verb "teaches" must be "teach" because "students" is plural; (3) "in National Geographic" must be "on National Geographic" because TV channels take the preposition "on" (see Rule 8).
 
 ---
 
@@ -399,7 +411,7 @@ You wrote **"Students watch ... teaches"** which has three errors in one sentenc
 
 Your errors were not random. They followed repeating patterns. If you check these five points every time before you submit, you will catch most of your mistakes automatically. Make this checklist a habit during every PTE writing practice.
 
-### Example
+### Checklist
 
 1. **Subject-verb agreement** — does every verb match its subject? (It provides, students feel, television hampers)
 2. **Adjective form** — have you used *relaxing* (not *relax*), *entertaining* (not *entertain*) before nouns?
@@ -407,9 +419,7 @@ Your errors were not random. They followed repeating patterns. If you check thes
 4. **Singular vs plural** — students (not student), results (not result), concepts (not concept), skills.
 5. **Tense** — if your example is a past story, are **ALL** verbs past tense? (I watched, I got, I had)
 
-### What I did wrong in the paragraph
-
-In your TV essay, errors from all five checklist areas appeared. Subject-verb agreement errors appeared in several sentences. Adjective form errors appeared in two sentences. Spelling errors appeared in three words. Singular-plural errors appeared in multiple places. Tense consistency broke down in the personal example paragraph. Running through this checklist takes about 90 seconds and would catch most of these.
+Running through this checklist takes about 90 seconds and would catch most of your recurring mistakes.
 
 ---
 
@@ -426,14 +436,14 @@ When you introduce a noun phrase for the first time, it usually needs the indefi
 | **What you wrote:** | Therefore, smartphones have positive impact on society. |
 | **What it should be:** | Therefore, smartphones have a positive impact on society. |
 
+"Impact" is a countable singular noun. When you introduce it for the first time, "a" is mandatory before the adjective: "a positive impact".
+
 | | |
 |---|---|
 | **What you wrote:** | However, smartphones have detrimental impact on health and well-being. |
 | **What it should be:** | However, smartphones have a detrimental impact on health and well-being. |
 
-### What I did wrong in the paragraph
-
-You wrote **"have positive impact"** and **"have detrimental impact"** without **"a"** in both body paragraphs. The fixed expression always requires **"a"**: **"have a positive impact"**. The quick test: if you can count it (one impact, two impacts), it needs **"a"** on first mention. Memorize: have a positive impact, have a negative effect, play a crucial role.
+Same rule applies here. "Detrimental impact" needs "a" before it. The quick test: if you can count it (one impact, two impacts), it needs "a" on first mention. Memorize: have a positive impact, have a negative effect, play a crucial role.
 
 ---
 
@@ -450,9 +460,7 @@ You wrote **"have positive impact"** and **"have detrimental impact"** without *
 | **What you wrote:** | Students can attend online classes through apps on smartphones, if there schools are closed. |
 | **What it should be:** | Students can attend online classes through apps on smartphones, if their schools are closed. |
 
-### What I did wrong in the paragraph
-
-You wrote **"there schools"** but schools belong to the students, so the possessive **"their"** is correct. Every time you write **"there"** or **"their"**, pause and ask if you mean ownership; if yes, it must be **"their"**.
+The schools belong to the students, so the possessive "their" is correct. "There schools" makes no grammatical sense — "there" cannot show ownership.
 
 ---
 
@@ -469,9 +477,7 @@ To show that something belongs to a noun, add apostrophe + **s** after a singula
 | **What you wrote:** | It is not smartphones fault, and when people limit the usage, the disadvantages will vanish. |
 | **What it should be:** | It is not smartphones' fault, and when people limit their usage, the disadvantages will vanish. |
 
-### What I did wrong in the paragraph
-
-You wrote **"smartphones fault"** without an apostrophe. For plural nouns ending in **s**, add only the apostrophe after the **s**: **smartphones' fault**. You also needed **"their"** before **"usage"** if you mean the people's usage. If unsure, use **"the fault of smartphones"**.
+"Smartphones" is a plural noun ending in -s, so you add only the apostrophe after the -s: **smartphones' fault**. There is also a second error here — "the usage" should be "their usage" because you mean the usage belonging to the people.
 
 ---
 
@@ -488,9 +494,7 @@ You wrote **"smartphones fault"** without an apostrophe. For plural nouns ending
 | **What you wrote:** | When people limit their usage, all the disadvantages will be vanished. |
 | **What it should be:** | When people limit their usage, all the disadvantages will vanish. |
 
-### What I did wrong in the paragraph
-
-You wrote **"will be vanished"** which mixes passive with an intransitive verb. **"Vanish"** has no passive form. Write **"will vanish"**, or use a transitive verb in passive if you need passive voice: **"will be eliminated"**.
+"Vanish" is an intransitive verb — it has no passive form. "Will be vanished" is always wrong. Write "will vanish" in active voice, or switch to a transitive verb if you need passive: "will be eliminated".
 
 ---
 
@@ -507,34 +511,38 @@ In English, each clause has one subject. When two verbs share the same subject a
 | **What you wrote:** | Excessive screen time on smartphones increases anxiety, stress, and it eventually degrades their quality of sleep. |
 | **What it should be:** | Excessive screen time on smartphones increases anxiety, stress, and eventually degrades their quality of sleep. |
 
-### What I did wrong in the paragraph
+"Excessive screen time on smartphones" is already the subject for both "increases" and "degrades". Adding "it" before "degrades" creates an illegal double subject. Remove "it" entirely.
 
-You wrote **"increases anxiety ... and it eventually degrades"**. The **"it"** is wrong because **"Excessive screen time on smartphones"** is already the subject for both verbs. Remove **"it"**: **"increases anxiety, stress, and eventually degrades their quality of sleep"**.
+---
 
-## 21. Noun + Numeral Adjective: Singular Form in Compound Adjective
+## 21. Singular Form in Compound Adjective
 
 ### Rule
-যখন একটি number বা quantity word একটি noun এর আগে **adjective হিসেবে** ব্যবহার হয় (hyphen সহ বা ছাড়া), তখন noun টি সবসময় **singular** হয়। যেমন: "a 10-year-old boy" (years নয়), "a three-hour exam" (hours নয়), "a century-old play" (centuries নয়)। কিন্তু যখন noun টি subject বা object হিসেবে একা দাঁড়িয়ে থাকে (adjective হিসেবে নয়), তখন plural হয়: "this play is centuries old"।
+
+When a number or quantity word is placed before a noun to form a compound adjective (with or without a hyphen), the noun inside the compound must always be **singular**. Examples: "a 10-year-old boy" (not years-old), "a three-hour exam" (not hours), "a century-old play" (not centuries-old). However, when the noun stands alone as a predicate — not inside a compound — it takes the plural: "this play is centuries old". Also remember that compound adjectives before a noun require a hyphen.
 
 ### Example
+
 | | |
 |---|---|
 | **What you wrote:** | When students start to read a centuries old plays, they have to pause. |
 | **What it should be:** | When students start to read century-old plays, they have to pause. |
 
-### What I did wrong in the paragraph
-তুমি লিখেছিলে **"a centuries old plays"** — এখানে তিনটি ভুল একসাথে: (১) "century" adjective হিসেবে ব্যবহার হলে plural হয় না, তাই "centuries" নয় "century"; (২) "century-old" একটি compound adjective, hyphen দিয়ে লিখতে হয়; (৩) "a" এবং "plays" একসাথে হয় না — "a" singular এর জন্য, কিন্তু "plays" plural। সঠিক form: **"century-old plays"**। Rule মনে রাখো: number/quantity + noun + old = সবসময় singular noun, এবং এটা hyphenated compound adjective।
+Three errors at once: (1) "centuries" must be singular "century" because it is inside a compound adjective; (2) "century-old" needs a hyphen; (3) "a" and "plays" cannot go together — "a" is for singular nouns but "plays" is plural, so remove "a". Correct form: **century-old plays**.
 
-## 22. Comma Before Relative Clause (Non-Restrictive)
+---
+
+## 22. Comma Before Non-Restrictive Relative Clause
 
 ### Rule
-যখন একটি relative clause (who, which, that দিয়ে শুরু) পুরো আগের clause বা sentence এর উপর comment করে — মানে এটা নতুন বা extra তথ্য যোগ করে, restrict করে না — তখন তার আগে অবশ্যই **comma** বসাতে হয়। এই ধরনের clause কে **non-restrictive relative clause** বলে। "which" দিয়ে শুরু হওয়া clause সাধারণত সবসময় non-restrictive, তাই "which" এর আগে comma বাধ্যতামূলক। "That" দিয়ে শুরু হওয়া clause সাধারণত restrictive, তাই comma লাগে না।
+
+When a relative clause (introduced by who, which, or that) adds extra information as a comment on the whole preceding clause — rather than restricting or identifying the noun — it is called a **non-restrictive relative clause** and must be preceded by a **comma**. Clauses starting with **"which"** are almost always non-restrictive, so a comma before "which" is mandatory. Clauses starting with **"that"** are usually restrictive and do not take a comma.
 
 ### Example
+
 | | |
 |---|---|
 | **What you wrote:** | the words or language of those plays are really hard to comprehend which creates problems. |
 | **What it should be:** | the words or language of those plays are really hard to comprehend, which creates problems. |
 
-### What I did wrong in the paragraph
-তুমি **"comprehend which"** লিখেছিলে comma ছাড়া। এখানে "which creates problems" পুরো আগের idea টার উপর একটি নতুন তথ্য যোগ করছে (extra comment), কোনো specific restriction করছে না। তাই "which" এর আগে অবশ্যই comma দিতে হবে: **"comprehend, which creates problems"**। Quick test: clause টি বাদ দিলেও কি মূল sentence এর meaning পরিবর্তন হয় না? যদি হ্যাঁ, তাহলে comma দাও।
+"Which creates problems" is adding a new comment on the whole idea that the language is difficult — it is not restricting any noun. So a comma before "which" is mandatory. Quick test: if removing the clause does not change the core meaning of the sentence, it is non-restrictive and needs a comma.
