@@ -111,9 +111,16 @@ In PTE and academic writing, every word must be spelled correctly. Even if your 
 | **What you wrote:** | but peopel have to be aware of addiction. |
 | **What it should be:** | but people have to be aware of addiction. |
 
+| | |
+|---|---|
+| **What you wrote:** | plays like Shakespear's "Romeo & Juliet" |
+| **What it should be:** | plays like Shakespeare's "Romeo & Juliet" |
+
 ### What I did wrong in the paragraph
 
 You had three spelling errors: "beilieve" (correct: believe), "peacefullness" (correct: peacefulness — one l, not two), and "peopel" (correct: people). These are all very common academic words. Memorize them: **b-e-l-i-e-v-e**, **p-e-a-c-e-f-u-l-n-e-s-s**, **p-e-o-p-l-e**.
+
+You wrote **"Shakespear"** but the correct spelling of the playwright's name is **"Shakespeare"** — note the silent final "e". This is one of the most commonly misspelled proper nouns in academic writing. Since it is a proper noun, there is no grammar rule to fall back on; you simply have to memorize it: **S-h-a-k-e-s-p-e-a-r-e**.
 
 ---
 
@@ -130,9 +137,21 @@ Use **"the"** before an adjective when it refers to a whole group of people with
 | **What you wrote:** | People can learn from educational content on television, and it acts as a companion for lonely people. |
 | **What it should be:** | People can learn from educational content on television, and it acts as a companion for the lonely. |
 
+| | |
+|---|---|
+| **What you wrote:** | introduces students to culture and emotion of those times. |
+| **What it should be:** | introduces students to the culture and emotions of those times. |
+
+| | |
+|---|---|
+| **What you wrote:** | they have to pause and see a dictionary to understand meaning of a word. |
+| **What it should be:** | they have to pause and see a dictionary to understand the meaning of a word. |
+
 ### What I did wrong in the paragraph
 
-Apeuni flagged that **"the"** was missing before "lonely". The phrase **"the lonely"** means lonely people as a category. Writing "for lonely people" is not wrong, but **"for the lonely"** is the more natural and idiomatic academic expression. In essays, use **"the + adjective"** to refer to a group: the lonely, the elderly, the sick.
+Apeuni flagged that **"the"** was missing before "lonely". The phrase **"the lonely"** means lonely people as a category. Writing "for lonely people" is not wrong, but **"for the lonely"** is the more natural and idiomatic academic expression. In essays, use **"the + adjective"** to refer to a group: the lonely, the elderly, the sick. 
+
+You dropped "the" in two places. In the first sentence you wrote **"to culture"** but you are referring to the specific culture of a particular historical period, so "the" is mandatory: **"to the culture"**. In the second sentence you wrote **"understand meaning"** but you mean the specific meaning of a specific word that was just mentioned, so it must be **"understand the meaning"**. Rule: whenever the noun refers to something specific and identifiable from context, "the" cannot be left out.
 
 ---
 
@@ -255,9 +274,36 @@ Use plural nouns when talking about more than one thing, a repeated action, or a
 | **What you wrote:** | In emergency situation such as ambulance call or fire service call, people use smartphones. |
 | **What it should be:** | In emergency situations such as ambulance calls or fire service calls, people use smartphones. |
 
+| | |
+|---|---|
+| **What you wrote:** | studying centuries-old plays and theatre introduces students to culture and emotion of those times. |
+| **What it should be:** | studying centuries-old plays and theatre introduces students to the culture and emotions of those times. |
+
+| | |
+|---|---|
+| **What you wrote:** | These exposure help students to realize... |
+| **What it should be:** | These exposures help students to realize... |
+
+| | |
+|---|---|
+| **What you wrote:** | the word or language of ancient plays are difficult. |
+| **What it should be:** | the words or language of ancient plays are difficult. |
+
+| | |
+|---|---|
+| **What you wrote:** | often creates concentration problem. |
+| **What it should be:** | often creates concentration problems. |
+
+| | |
+|---|---|
+| **What you wrote:** | but the words or language of those plays are really hard to comprehend, which creates problem. |
+| **What it should be:** | but the words or language of those plays are really hard to comprehend, which creates problems. |
+
 ### What I did wrong in the paragraph
 
 You wrote **"if student can watch"** but the general statement needs plural **"students"**. You wrote **"poor result"** (singular) for overall exam performance; **"poor results"** is natural. In the smartphone essay **"emergency situation"** and **"ambulance call"** / **"fire service call"** should be plural when you list types of emergencies and repeated kinds of calls. Ask: one specific thing or a general situation? If general, prefer plural.
+
+You used singular nouns in five places where plural was needed. You wrote **"emotion"** but the sentence lists feelings from an entire era, so **"emotions"** is correct. You wrote **"exposure"** after the demonstrative "These" which itself signals plural, so it must be **"exposures"**. You wrote **"word"** when referring to the language of plays in general, so **"words"** is correct. You wrote **"concentration problem"** and **"creates problem"** in two separate sentences; both refer to a recurring general issue, so **"problems"** is needed in both. Rule: when you make a general statement about repeated or multiple things, always use the plural noun.
 
 ---
 
@@ -464,3 +510,31 @@ In English, each clause has one subject. When two verbs share the same subject a
 ### What I did wrong in the paragraph
 
 You wrote **"increases anxiety ... and it eventually degrades"**. The **"it"** is wrong because **"Excessive screen time on smartphones"** is already the subject for both verbs. Remove **"it"**: **"increases anxiety, stress, and eventually degrades their quality of sleep"**.
+
+## 21. Noun + Numeral Adjective: Singular Form in Compound Adjective
+
+### Rule
+যখন একটি number বা quantity word একটি noun এর আগে **adjective হিসেবে** ব্যবহার হয় (hyphen সহ বা ছাড়া), তখন noun টি সবসময় **singular** হয়। যেমন: "a 10-year-old boy" (years নয়), "a three-hour exam" (hours নয়), "a century-old play" (centuries নয়)। কিন্তু যখন noun টি subject বা object হিসেবে একা দাঁড়িয়ে থাকে (adjective হিসেবে নয়), তখন plural হয়: "this play is centuries old"।
+
+### Example
+| | |
+|---|---|
+| **What you wrote:** | When students start to read a centuries old plays, they have to pause. |
+| **What it should be:** | When students start to read century-old plays, they have to pause. |
+
+### What I did wrong in the paragraph
+তুমি লিখেছিলে **"a centuries old plays"** — এখানে তিনটি ভুল একসাথে: (১) "century" adjective হিসেবে ব্যবহার হলে plural হয় না, তাই "centuries" নয় "century"; (২) "century-old" একটি compound adjective, hyphen দিয়ে লিখতে হয়; (৩) "a" এবং "plays" একসাথে হয় না — "a" singular এর জন্য, কিন্তু "plays" plural। সঠিক form: **"century-old plays"**। Rule মনে রাখো: number/quantity + noun + old = সবসময় singular noun, এবং এটা hyphenated compound adjective।
+
+## 22. Comma Before Relative Clause (Non-Restrictive)
+
+### Rule
+যখন একটি relative clause (who, which, that দিয়ে শুরু) পুরো আগের clause বা sentence এর উপর comment করে — মানে এটা নতুন বা extra তথ্য যোগ করে, restrict করে না — তখন তার আগে অবশ্যই **comma** বসাতে হয়। এই ধরনের clause কে **non-restrictive relative clause** বলে। "which" দিয়ে শুরু হওয়া clause সাধারণত সবসময় non-restrictive, তাই "which" এর আগে comma বাধ্যতামূলক। "That" দিয়ে শুরু হওয়া clause সাধারণত restrictive, তাই comma লাগে না।
+
+### Example
+| | |
+|---|---|
+| **What you wrote:** | the words or language of those plays are really hard to comprehend which creates problems. |
+| **What it should be:** | the words or language of those plays are really hard to comprehend, which creates problems. |
+
+### What I did wrong in the paragraph
+তুমি **"comprehend which"** লিখেছিলে comma ছাড়া। এখানে "which creates problems" পুরো আগের idea টার উপর একটি নতুন তথ্য যোগ করছে (extra comment), কোনো specific restriction করছে না। তাই "which" এর আগে অবশ্যই comma দিতে হবে: **"comprehend, which creates problems"**। Quick test: clause টি বাদ দিলেও কি মূল sentence এর meaning পরিবর্তন হয় না? যদি হ্যাঁ, তাহলে comma দাও।
