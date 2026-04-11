@@ -35,6 +35,27 @@ When the subject of a sentence is singular (It, He, She, Television, The show, E
 
 The real subject is the whole phrase "Excessive screen time on smartphones" — a singular idea. Don't be misled by "smartphones" near the verb; the head noun is "time", which is singular, so both verbs need -s: "increases" and "degrades".
 
+| | |
+|---|---|
+| **What you wrote:** | studying centuries-old plays and theatre <introduces> students |
+| **What it should be:** | studying centuries-old plays and theatre introduce students |
+
+The subject is "studying centuries-old plays and theatre" — a compound subject that includes two things ("plays" and "theatre"). When plays and theatre are mentioned together as two things, the verb must be plural: "introduce" not "introduces".
+
+| | |
+|---|---|
+| **What you wrote:** | Students <get>[gets] demotivated while studying |
+| **What it should be:** | Students get demotivated while studying |
+
+"Students" is plural, so the verb must be the base form "get" not "gets". This is a recurring mistake for students who confuse the nearest noun with the actual subject.
+
+| | |
+|---|---|
+| **What you wrote:** | these are not just old stories, <it are> the same emotion |
+| **What it should be:** | these are not just old stories; it's the same emotion |
+
+"It" is a singular pronoun, so it must always take the singular verb "is" (contracted to "it's"), never "are". This looks like agreement confusion — treat the pronoun as singular.
+
 ---
 
 ## 2. Subject-Verb Agreement (Plural Subject)
@@ -61,10 +82,10 @@ When the subject is plural (Students, People, Experts, Fast plots and music, Sma
 
 | | |
 |---|---|
-| **What you wrote:** | Smartphone is one of the new inventions in our technological world. |
-| **What it should be:** | Smartphones are one of the new inventions in our technological world. |
+| **What you wrote:** | Although studying these plays <has> a lot of problems |
+| **What it should be:** | Although studying these plays have a lot of problems |
 
-You are talking about smartphones as a general category, not one specific device. The plural "Smartphones are" is correct here.
+The subject is "plays" (plural). Even though "studying" (a gerund) comes before the verb, the noun "plays" is what the verb agrees with. "Plays" is plural, so the verb must be "have" not "has".
 
 ---
 
@@ -153,6 +174,20 @@ Use **"the"** before an adjective when it refers to a whole group of people with
 You are referring to the specific culture of a particular historical period, not culture in general. When the noun is identifiable from context, "the" is mandatory.
 
 | | |
+|---|---|
+| **What you wrote:** | introduces students <to the culture>[to culture] and <emotions> of those times |
+| **What it should be:** | introduces students to the culture and emotions of those times |
+
+You are referring to a specific culture — the culture of "those times" mentioned earlier. The article "the" is mandatory because the noun is identifiable from context. This is a frequent error when referring back to something just mentioned.
+
+| | |
+|---|---|
+| **What you wrote:** | they have to pause and see a dictionary to understand <meaning> of a word |
+| **What it should be:** | they have to pause and see a dictionary to understand the meaning of a word |
+
+"The meaning" refers to the specific meaning of the word just mentioned in context. "The" is mandatory because it is identifiable. Without "the", the sentence sounds incomplete. Natural pattern: understand the meaning, grasp the concept, recognize the pattern.
+
+---
 |---|---|
 | **What you wrote:** | they have to pause and see a dictionary to understand meaning of a word. |
 | **What it should be:** | they have to pause and see a dictionary to understand the meaning of a word. |
@@ -288,38 +323,40 @@ You are listing types of emergencies and types of calls — all general categori
 
 | | |
 |---|---|
-| **What you wrote:** | studying centuries-old plays and theatre introduces students to culture and emotion of those times. |
-| **What it should be:** | studying centuries-old plays and theatre introduces students to the culture and emotions of those times. |
+| **What you wrote:** | studying centuries-old plays and theatre introduces students to <the culture> and <emotion> of those times |
+| **What it should be:** | studying centuries-old plays and theatre introduce students to the culture and emotions of those times |
 
-The sentence refers to many different emotions from an entire historical era, not just one. "Emotions" is correct.
-
-| | |
-|---|---|
-| **What you wrote:** | These exposure help students to realize... |
-| **What it should be:** | These exposures help students to realize... |
-
-The word "These" already signals plural, so the noun must also be plural: "exposures".
+You are referring to many different emotions from an entire historical era, not just one emotion. The sentence describes multiple distinct feelings (love, betrayal, anger) from different characters and time periods, so "emotions" (plural) is correct.
 
 | | |
 |---|---|
-| **What you wrote:** | the word or language of ancient plays are difficult. |
-| **What it should be:** | the words or language of ancient plays are difficult. |
+| **What you wrote:** | These <exposures>[exposure] help students to realize |
+| **What it should be:** | These exposures help students to realize |
 
-You are referring to many difficult words across many plays, not a single word. Use "words".
-
-| | |
-|---|---|
-| **What you wrote:** | often creates concentration problem. |
-| **What it should be:** | often creates concentration problems. |
-
-This is a recurring, general issue — not one isolated problem. "Problems" is the natural plural here.
+The demonstrative "These" signals plural, so the noun must also be plural: "exposures" not "exposure". When you use "these" or "those", the following noun must be plural.
 
 | | |
 |---|---|
-| **What you wrote:** | but the words or language of those plays are really hard to comprehend, which creates problem. |
-| **What it should be:** | but the words or language of those plays are really hard to comprehend, which creates problems. |
+| **What you wrote:** | the <words>[word] or language of ancient plays |
+| **What it should be:** | the words or language of ancient plays |
 
-The conclusion is summarizing multiple difficulties described throughout the essay. "Problems" (plural) is correct.
+You are referring to many different difficult words across many plays, not a single word. The plural "words" is correct.
+
+| | |
+|---|---|
+| **What you wrote:** | when <students>[student] read Hamlet's play |
+| **What it should be:** | when students read Hamlet's play |
+
+You are making a general statement about students in general, not one specific student. General statements require the plural form: "students" not "student".
+
+| | |
+|---|---|
+| **What you wrote:** | connect <with the culture>[with culture] and <emotions>[emotion] of old times, but... which creates <problem> |
+| **What it should be:** | connect with the culture and emotions of old times, but... which creates problems |
+
+Two errors here: (1) "emotion" should be "emotions" because the sentence refers to multiple emotions across a historical era. (2) At the end, "problem" should be "problems" because you are summarizing multiple difficulties (hard words, repeated pauses, demotivation) described throughout the essay.
+
+---
 
 ---
 
@@ -445,6 +482,13 @@ When you introduce a noun phrase for the first time, it usually needs the indefi
 
 Same rule applies here. "Detrimental impact" needs "a" before it. The quick test: if you can count it (one impact, two impacts), it needs "a" on first mention. Memorize: have a positive impact, have a negative effect, play a crucial role.
 
+| | |
+|---|---|
+| **What you wrote:** | these plays <have a lot> [have lot] of advantages |
+| **What it should be:** | these plays have a lot of advantages |
+
+"A lot" is a fixed phrase meaning "many". You cannot write "have lot of" — the "a" before "lot" is mandatory. This is one of the most common missing article errors. Memorize: **have a lot of**, **a lot of problems**, **a lot of time**.
+
 ---
 
 ## 17. Commonly Confused Words: their vs there
@@ -478,6 +522,13 @@ To show that something belongs to a noun, add apostrophe + **s** after a singula
 | **What it should be:** | It is not smartphones' fault, and when people limit their usage, the disadvantages will vanish. |
 
 "Smartphones" is a plural noun ending in -s, so you add only the apostrophe after the -s: **smartphones' fault**. There is also a second error here — "the usage" should be "their usage" because you mean the usage belonging to the people.
+
+| | |
+|---|---|
+| **What you wrote:** | people's <emotion> remain the same |
+| **What it should be:** | people's emotions remain the same |
+
+Two errors here: (1) "peoples" is not correct — the possessive of "people" is "people's" (apostrophe + s), not "peoples". (2) "emotion" should be "emotions" because people experience multiple emotions, not just one. Correct: **people's emotions**.
 
 ---
 
@@ -529,6 +580,13 @@ When a number or quantity word is placed before a noun to form a compound adject
 | **What it should be:** | When students start to read century-old plays, they have to pause. |
 
 Three errors at once: (1) "centuries" must be singular "century" because it is inside a compound adjective; (2) "century-old" needs a hyphen; (3) "a" and "plays" cannot go together — "a" is for singular nouns but "plays" is plural, so remove "a". Correct form: **century-old plays**.
+
+| | |
+|---|---|
+| **What you wrote:** | when students start to read <century>[a centuries] old plays |
+| **What it should be:** | when students start to read century-old plays |
+
+Three errors here: (1) The compound adjective must use the singular form "century" not "centuries" — this is mandatory for compound adjectives. (2) The compound adjective "century-old" must be hyphenated. (3) The article "a" cannot be used before a plural noun "plays" — you need either "a" with a singular noun or no article with a plural. Correct: **century-old plays** (no article before the already-specified plural noun).
 
 ---
 
