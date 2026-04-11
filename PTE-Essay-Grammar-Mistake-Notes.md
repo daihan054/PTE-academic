@@ -29,30 +29,9 @@ When the subject of a sentence is singular (It, He, She, Television, The show, E
 | **What you wrote:** | Excessive screen time on smartphones increase anxiety, stress, and eventually degrade their quality of sleep. |
 | **What it should be:** | Excessive screen time on smartphones increases anxiety, stress, and eventually degrades their quality of sleep. |
 
-| | |
-|---|---|
-| **What you wrote:** | studying Error centuries old plays and theatre introduce students to the culture |
-| **What it should be:** | studying centuries-old plays and theatre introduces students to the culture |
-
-| | |
-|---|---|
-| **What you wrote:** | it teaches people about love, betrayal, anger and emotion of centuries old times |
-| **What it should be:** | it teaches people about love, betrayal, anger and emotions of centuries-old times |
-
-
 ### What I did wrong in the paragraph
 
-In the TV essay you wrote "It provide" and "Television provide", but both subjects are singular, so the verb must be "provides". This error appeared in Paragraph 1 and the Conclusion. In the smartphone essay the real subject is the whole noun phrase "Excessive screen time on smartphones" (singular idea), so the verbs must be "increases" and "degrades", not the base forms "increase" and "degrade". **Rule:** one singular subject = add **-s** to the present tense verb. 
-
-The subject “studying centuries-old plays and theatre” is a singular idea, so the verb must be introduces, not introduce. In English, gerund phrases (studying, reading, learning) behave like singular nouns, so the verb always takes -s.
-
-Example pattern to remember:
-
-Studying history helps students.
-
-Reading books improves knowledge.
-
-Learning languages develops the brain.
+In the TV essay you wrote "It provide" and "Television provide", but both subjects are singular, so the verb must be "provides". This error appeared in Paragraph 1 and the Conclusion. In the smartphone essay the real subject is the whole noun phrase "Excessive screen time on smartphones" (singular idea), so the verbs must be "increases" and "degrades", not the base forms "increase" and "degrade". **Rule:** one singular subject = add **-s** to the present tense verb.
 
 ---
 
@@ -79,32 +58,9 @@ When the subject is plural (Students, People, Experts, Fast plots and music, Sma
 | **What you wrote:** | Smartphone is one of the new inventions in our technological world. |
 | **What it should be:** | Smartphones are one of the new inventions in our technological world. |
 
-| | |
-|---|---|
-| **What you wrote:** | these plays are beneficial for high school student |
-| **What it should be:** | these plays are beneficial for high school students |
-
-| | |
-|---|---|
-| **What you wrote:** | when students read Hamlet's play and see words like "To be or not to be", they becomes confused |
-| **What it should be:** | when students read Hamlet's play and see words like "To be or not to be", they become confused |
-
-
 ### What I did wrong in the paragraph
 
-In the TV essay you wrote "feels" after the plural subject "Students" and "hamper" after the singular subject "television". Plural subject needs the base verb "feel"; singular "television" needs "hampers". In the smartphone essay "Smartphone is" is wrong because you are talking about smartphones in general as a class of inventions, so use plural "Smartphones are" with the plural verb "are". Always identify the real subject and its number before you choose the verb. 
-
-The subject students is plural, so the verb must stay in base form:
-
-Correct pattern:
-
-students become
-
-students feel
-
-students understand
-
-Never add -s with plural subjects.
+In the TV essay you wrote "feels" after the plural subject "Students" and "hamper" after the singular subject "television". Plural subject needs the base verb "feel"; singular "television" needs "hampers". In the smartphone essay "Smartphone is" is wrong because you are talking about smartphones in general as a class of inventions, so use plural "Smartphones are" with the plural verb "are". Always identify the real subject and its number before you choose the verb.
 
 ---
 
@@ -174,26 +130,9 @@ Use **"the"** before an adjective when it refers to a whole group of people with
 | **What you wrote:** | People can learn from educational content on television, and it acts as a companion for lonely people. |
 | **What it should be:** | People can learn from educational content on television, and it acts as a companion for the lonely. |
 
-
-| | |
-|---|---|
-| **What you wrote:** | introduces students to culture and emotions of those times |
-| **What it should be:** | introduces students to the culture and emotions of those times |
-
 ### What I did wrong in the paragraph
 
 Apeuni flagged that **"the"** was missing before "lonely". The phrase **"the lonely"** means lonely people as a category. Writing "for lonely people" is not wrong, but **"for the lonely"** is the more natural and idiomatic academic expression. In essays, use **"the + adjective"** to refer to a group: the lonely, the elderly, the sick.
-
-When referring to a specific historical period, English normally uses “the”.
-
-Correct pattern:
-
-> the culture of the past
-
-> the language of Shakespeare
-
-> the traditions of that era
-
 
 ---
 
@@ -316,31 +255,9 @@ Use plural nouns when talking about more than one thing, a repeated action, or a
 | **What you wrote:** | In emergency situation such as ambulance call or fire service call, people use smartphones. |
 | **What it should be:** | In emergency situations such as ambulance calls or fire service calls, people use smartphones. |
 
-| | |
-|---|---|
-| **What you wrote:** | people's emotion and love remain the same |
-| **What it should be:** | people's emotions and love remain the same |
-
-| | |
-|---|---|
-| **What you wrote:** | the words or language of ancient plays creates concentration problem |
-| **What it should be:** | the words or language of ancient plays create concentration problems |
-
 ### What I did wrong in the paragraph
 
 You wrote **"if student can watch"** but the general statement needs plural **"students"**. You wrote **"poor result"** (singular) for overall exam performance; **"poor results"** is natural. In the smartphone essay **"emergency situation"** and **"ambulance call"** / **"fire service call"** should be plural when you list types of emergencies and repeated kinds of calls. Ask: one specific thing or a general situation? If general, prefer plural.
-
-When talking about general human feelings, English normally uses plural nouns. 
-
-Correct patterns:
-
-human emotions
-
-social problems
-
-academic skills
-
-If the sentence describes general phenomena, prefer plural nouns.
 
 ---
 
@@ -405,30 +322,10 @@ Commas must be placed only where they create genuine pauses or separate grammati
 | **What you wrote:** | People used smartphone apps to attend online classes, exams. |
 | **What it should be:** | People used smartphone apps to attend online classes and exams. |
 
-| | |
-|---|---|
-| **What you wrote:** | these exposures help students to realize that these are not just old stories it are the same emotion |
-| **What it should be:** | these exposures help students realize that these are not just old stories; they are the same emotions |
-
 ### What I did wrong in the paragraph
 
 In the if-then sentence, you needed clearer punctuation or structure before the result clause. You missed commas after introductory **"Eventually"** and **"As a result"**. In the smartphone essay you wrote **"classes, exams"** with only a comma; parallel objects after **"attend"** need **"and"**: **"classes and exams"**.
 
-You created a comma splice / run-on sentence.
-
-Two independent clauses must be connected with:
-
-> comma + conjunction
-
-> semicolon
-
-> full stop
-
-Correct structures:
-
-> ..., and they are the same emotions
-> ... ; they are the same emotions
-> ... . They are the same emotions
 ---
 
 ## 14. Finite Verb vs Participial Phrase
@@ -444,26 +341,9 @@ A participial phrase (verb + **-ing**) can be used as a modifier attached to the
 | **What you wrote:** | Students watch educational shows in National Geographic teaches them difficult physics concepts. |
 | **What it should be:** | Students watching educational shows on National Geographic teach them difficult physics concepts. |
 
-| | |
-|---|---|
-| **What you wrote:** | centuries old plays and theatre introduce students |
-| **What it should be:** | centuries-old plays and theatre introduce students |
-
 ### What I did wrong in the paragraph
 
 You wrote **"Students watch ... teaches"** which has three errors in one sentence. First, **"watch"** should be **"watching"** because the subject has a participial modifier phrase. Second, the main verb **"teaches"** must be **"teach"** because the subject **"students"** is plural. Third, **"in National Geographic"** must be **"on National Geographic"** because TV channels take the preposition **"on"** (see Rule 8).
-
-The phrase “centuries old” must be written as a compound adjective:
-
-Correct form:
-
-- centuries-old plays
-
-- well-known writer
-
-- long-term impact
-
-Compound adjectives usually use hyphens before nouns.
 
 ---
 
