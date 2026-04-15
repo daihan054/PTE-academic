@@ -604,3 +604,89 @@ When a relative clause (introduced by who, which, or that) adds extra informatio
 | **What it should be:** | the words or language of those plays are really hard to comprehend, which creates problems. |
 
 "Which creates problems" is adding a new comment on the whole idea that the language is difficult — it is not restricting any noun. So a comma before "which" is mandatory. Quick test: if removing the clause does not change the core meaning of the sentence, it is non-restrictive and needs a comma.
+
+---
+
+## 23. Wrong Preposition After Verb (discuss about)
+
+### Rule
+
+Some verbs do not take prepositions. "Discuss" is one of them.
+
+### Example
+
+| | |
+|---|---|
+| **What you wrote:** | discuss about the positive and negative effect |
+| **What it should be:** | discuss the positive and negative effects |
+
+"Discuss" already includes "about", so using both is incorrect.
+
+---
+
+## 24. Verb Confusion: rise vs raise
+
+### Rule
+
+"Rise" does not take an object.  
+"Raise" takes an object.
+
+### Example
+
+| | |
+|---|---|
+| **What you wrote:** | it rises the energy |
+| **What it should be:** | it raised the energy |
+
+"Energy" is an object, so "raise" must be used.
+
+---
+
+## 25. Country vs Nationality
+
+### Rule
+
+Use country names for places and nationality words for people.
+
+### Example
+
+| | |
+|---|---|
+| **What you wrote:** | in Bangladeshis |
+| **What it should be:** | in Bangladesh |
+
+"Bangladesh" is a place, while "Bangladeshis" refers to people.
+
+---
+
+## 26. Sentence Structure (Comma Splice)
+
+### Rule
+
+Do not connect two independent clauses using only a comma.
+
+### Example
+
+| | |
+|---|---|
+| **What you wrote:** | it raises productivity, people will try to move |
+| **What it should be:** | it raises productivity, so people will try to move |
+
+A conjunction like "so" is required to connect the ideas.
+
+---
+
+## 27. Parallel Structure in Lists
+
+### Rule
+
+Items in a list must follow the same grammatical structure and include proper connectors like "and".
+
+### Example
+
+| | |
+|---|---|
+| **What you wrote:** | Building with large windows, sunlight, proper ventilation makes |
+| **What it should be:** | Buildings with large windows, sunlight, and proper ventilation make |
+
+All items must be parallel and the subject must match the verb.
