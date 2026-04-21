@@ -1,6 +1,6 @@
 # PTE Essay Grammar Mistake Notes
 
-**Source:** Apeuni-corrected practice essays (TV, smartphone, university).
+**Source:** Apeuni-corrected practice essays (TV, smartphone, university, building design).
 
 **Format:** Rule → all example pairs under **Example**, each followed by a short explanation.
 
@@ -55,6 +55,13 @@ The subject is "studying centuries-old plays and theatre" — a compound subject
 | **What it should be:** | these are not just old stories; it's the same emotion |
 
 "It" is a singular pronoun, so it must always take the singular verb "is" (contracted to "it's"), never "are". This looks like agreement confusion — treat the pronoun as singular.
+
+| | |
+|---|---|
+| **What you wrote:** | a lot of fire <accidents happen> and many people die |
+| **What it should be:** | a lot of fire accidents happen and many people die |
+
+Wait — this one is actually correct as written. "Accidents" is the subject (plural), so "happen" (base form) is correct. The error was writing "accident happens" (singular verb for plural subject). Never change a plural subject to match a singular verb.
 
 ---
 
@@ -188,6 +195,7 @@ You are referring to a specific culture — the culture of "those times" mention
 "The meaning" refers to the specific meaning of the word just mentioned in context. "The" is mandatory because it is identifiable. Without "the", the sentence sounds incomplete. Natural pattern: understand the meaning, grasp the concept, recognize the pattern.
 
 ---
+| | |
 |---|---|
 | **What you wrote:** | they have to pause and see a dictionary to understand meaning of a word. |
 | **What it should be:** | they have to pause and see a dictionary to understand the meaning of a word. |
@@ -241,6 +249,13 @@ Use a capital letter only at the very beginning of a sentence or for proper noun
 | **What it should be:** | During COVID-19, all educational institutes were shut down. |
 
 COVID-19 is an acronym and must be written in all capitals. Lower-case "covid-19" does not follow the standard convention.
+
+| | |
+|---|---|
+| **What you wrote:** | To begin with, <good>[Good] building design drives people |
+| **What it should be:** | To begin with, good building design drives people |
+
+"Good" is a common adjective. It must not be capitalised after a comma in the middle of a sentence. Only the first word of a new sentence gets a capital letter.
 
 ---
 
@@ -356,7 +371,19 @@ You are making a general statement about students in general, not one specific s
 
 Two errors here: (1) "emotion" should be "emotions" because the sentence refers to multiple emotions across a historical era. (2) At the end, "problem" should be "problems" because you are summarizing multiple difficulties (hard words, repeated pauses, demotivation) described throughout the essay.
 
----
+| | |
+|---|---|
+| **What you wrote:** | floor to ceiling <windows>[window] |
+| **What it should be:** | floor to ceiling windows |
+
+You are describing many windows across homes and offices, not a single window. General statements about features of buildings use the plural form.
+
+| | |
+|---|---|
+| **What you wrote:** | People resign from their <jobs>[job] |
+| **What it should be:** | People resign from their jobs |
+
+"People" refers to multiple individuals, each resigning from their own job. When the subject is plural, the possessed noun is typically also plural: "their jobs", "their homes", "their lives".
 
 ---
 
@@ -422,6 +449,20 @@ Introductory adverbials like "Eventually" and "As a result" must always be follo
 | **What it should be:** | People used smartphone apps to attend online classes and exams. |
 
 Two parallel objects after "attend" must be joined with "and", not separated by only a comma. A comma alone cannot link two objects.
+
+| | |
+|---|---|
+| **What you wrote:** | <Hence,>[ Hence] it raises productivity |
+| **What it should be:** | Hence, it raises productivity |
+
+"Hence" is an introductory connector. It must be followed by a comma before the main clause. Missing this comma is a punctuation error.
+
+| | |
+|---|---|
+| **What you wrote:** | [In Australia many] homes and offices were rebuilt |
+| **What it should be:** | In Australia, many homes and offices were rebuilt |
+
+When a sentence begins with an introductory prepositional phrase ("In Australia"), a comma must follow before the main subject and verb. Without the comma, the sentence runs into the main clause without a pause.
 
 ---
 
@@ -530,6 +571,13 @@ To show that something belongs to a noun, add apostrophe + **s** after a singula
 
 Two errors here: (1) "peoples" is not correct — the possessive of "people" is "people's" (apostrophe + s), not "peoples". (2) "emotion" should be "emotions" because people experience multiple emotions, not just one. Correct: **people's emotions**.
 
+| | |
+|---|---|
+| **What you wrote:** | Without any natural light or airflow directly affects <people's health>[people health] |
+| **What it should be:** | Without any natural light or airflow directly affects people's health |
+
+"People" is an irregular plural noun (not ending in -s), so possession is shown by adding apostrophe + s: **people's**. Writing "people health" without the apostrophe makes it look like "people" is a modifier (like "people carrier") rather than a possessor. Always write: **people's health**, **people's lives**, **people's wellbeing**.
+
 ---
 
 ## 19. Active vs Passive Voice with "will"
@@ -628,8 +676,9 @@ Some verbs do not take prepositions. "Discuss" is one of them.
 
 ### Rule
 
-"Rise" does not take an object.  
-"Raise" takes an object.
+"Rise" does not take an object — it is intransitive.  
+"Raise" takes an object — it is transitive.  
+In past tense: rise → rose, raise → raised.
 
 ### Example
 
@@ -638,7 +687,14 @@ Some verbs do not take prepositions. "Discuss" is one of them.
 | **What you wrote:** | it rises the energy |
 | **What it should be:** | it raised the energy |
 
-"Energy" is an object, so "raise" must be used.
+"Energy" is an object, so the transitive verb "raise" must be used. In this sentence the context is past tense, so the correct form is "raised".
+
+| | |
+|---|---|
+| **What you wrote:** | it <rises>[rose] the energy and productivity of people living inside by 50% |
+| **What it should be:** | it raised the energy and productivity of people living inside by 50% |
+
+Two errors: (1) The verb must be "raise" not "rise", because "energy and productivity" are objects. (2) The sentence describes a past event (homes were rebuilt), so the past tense "raised" is required, not "rises" (present) or "rose" (past of "rise"). Memorize: **raise → raised** (has an object), **rise → rose** (no object).
 
 ---
 
@@ -690,3 +746,37 @@ Items in a list must follow the same grammatical structure and include proper co
 | **What it should be:** | Buildings with large windows, sunlight, and proper ventilation make |
 
 All items must be parallel and the subject must match the verb.
+
+---
+
+## 28. Preposition for Location: "on" vs "in" for Buildings and Structures
+
+### Rule
+
+Use **"in"** when talking about being inside a building, room, or enclosed space: in the office, in the building, in the room. Use **"on"** when referring to a surface, floor level, or abstract structure: on the ground floor, on the roof, on a ship. However, when describing features or conditions of a structure (like exits or facilities), the correct preposition is often **"in"** or **"of"**, not **"on"**. Specifically, **"no fire exit in those buildings"** is correct because you mean the feature does not exist inside the structure.
+
+### Example
+
+| | |
+|---|---|
+| **What you wrote:** | many people die due to no fire exit <in>[on] those buildings |
+| **What it should be:** | many people die due to no fire exit in those buildings |
+
+A fire exit is a feature located inside or as part of a building. The correct preposition is "in" — you are talking about the absence of an exit within the structure. "On those buildings" would suggest something placed on top of the exterior surface.
+
+---
+
+## 29. Commonly Confused Words: effect vs affect
+
+### Rule
+
+**"Effect"** is almost always a noun: a positive effect, the effects of pollution, side effects. **"Affect"** is almost always a verb meaning to have an impact on: pollution affects health, design affects productivity. The pattern in PTE essays is almost always **noun** after "positive/negative/both" → use **"effect(s)"**. Quick test: if you can put "the" before the word, it is a noun → use **"effect"**.
+
+### Example
+
+| | |
+|---|---|
+| **What you wrote:** | design of building has both positive and negative <effects>[affects] |
+| **What it should be:** | design of building has both positive and negative effects |
+
+After "positive and negative", you need a noun — so "effects" is correct, not "affects". "Affects" is a verb and cannot follow "positive and negative" as a direct object here. Memorize: **positive effects** (noun), **negatively affects** (verb).
