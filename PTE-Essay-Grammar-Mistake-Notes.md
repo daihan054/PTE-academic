@@ -385,6 +385,20 @@ You are describing many windows across homes and offices, not a single window. G
 
 "People" refers to multiple individuals, each resigning from their own job. When the subject is plural, the possessed noun is typically also plural: "their jobs", "their homes", "their lives".
 
+| | |
+|---|---|
+| **What you wrote:** | People resign from their jobs, because poor building design makes their life unsafe. |
+| **What it should be:** | People resign from their jobs, because poor building design makes their lives unsafe. |
+
+"Their" refers to multiple people, so the noun must be plural: "their lives" not "their life". When the subject is plural, any noun they possess is also typically plural.
+
+| | |
+|---|---|
+| **What you wrote:** | <Building>[Building] with large windows, sunlight, and proper ventilation makes the environment comfortable. |
+| **What it should be:** | Buildings with large windows, sunlight, and proper ventilation make the environment comfortable. |
+
+You are making a general statement about buildings in general, not one specific building. The plural "Buildings" is correct, and the verb must match: "make" not "makes".
+
 ---
 
 ## 11. Demonstratives: this / that / these / those
@@ -747,6 +761,13 @@ Items in a list must follow the same grammatical structure and include proper co
 
 All items must be parallel and the subject must match the verb.
 
+| | |
+|---|---|
+| **What you wrote:** | design with no ventilation, safe exit and no large windows makes people uncomfortable |
+| **What it should be:** | design with no ventilation, no safe exit, and no large windows makes people uncomfortable |
+
+Each item in the list is a missing feature, so each must carry its own "no". Writing "safe exit" without "no" breaks the parallel negative pattern and accidentally implies the safe exit exists.
+
 ---
 
 ## 28. Preposition for Location: "on" vs "in" for Buildings and Structures
@@ -780,3 +801,20 @@ A fire exit is a feature located inside or as part of a building. The correct pr
 | **What it should be:** | design of building has both positive and negative effects |
 
 After "positive and negative", you need a noun — so "effects" is correct, not "affects". "Affects" is a verb and cannot follow "positive and negative" as a direct object here. Memorize: **positive effects** (noun), **negatively affects** (verb).
+
+---
+
+## 30. Missing Subject (Dangling Prepositional Phrase)
+
+### Rule
+
+Every English sentence must have a **subject** — a noun or noun phrase that performs the action of the verb. A prepositional phrase starting with words like **"Without"**, **"By"**, **"Despite"**, **"Through"** cannot be the subject of a sentence. It is only a modifier. If you begin a sentence with "Without X", you must then supply a real subject before the verb. The most common fix is to rewrite using **"The lack of X"** as the subject, or to restructure the clause entirely.
+
+### Example
+
+| | |
+|---|---|
+| **What you wrote:** | Without any natural light or airflow directly affects people's health. |
+| **What it should be:** | The lack of natural light or airflow directly affects people's health. |
+
+"Without any natural light or airflow" is a prepositional phrase — it has no subject. The verb "affects" has nothing to act upon. The fix is to use "The lack of natural light or airflow" as the real subject. Quick pattern: **Without X** → **The lack of X** + verb.
