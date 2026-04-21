@@ -94,6 +94,13 @@ When the subject is plural (Students, People, Experts, Fast plots and music, Sma
 
 The subject is "plays" (plural). Even though "studying" (a gerund) comes before the verb, the noun "plays" is what the verb agrees with. "Plays" is plural, so the verb must be "have" not "has".
 
+| | |
+|---|---|
+| **What you wrote:** | a lot of fire <accidents happen>[accident happens] and many people die |
+| **What it should be:** | a lot of fire accidents happen and many people die |
+
+The subject is "accidents" (plural). The verb must be the base form "happen" without -s. Writing "accident happens" makes two errors at once: (1) "accident" should be plural "accidents" because many incidents are being described; (2) "happens" with -s is wrong because the plural subject "accidents" requires the base form "happen". Quick test: accidents (plural) → happen (no -s).
+
 ---
 
 ## 3. Adjective Form vs Base Verb Form
